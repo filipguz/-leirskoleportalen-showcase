@@ -18,8 +18,10 @@ The system replaces manual workflows (Excel, paper) with a structured digital so
 - Add schools and participants
 - Collect student data through external links (no login required)
 - Allocate students to cabins
+- Risk assessment functionality for planning and documenting activities, improving safety and preparation
 - Role-based access control
 - Subscription payments (Stripe)
+
 
 ---
 
