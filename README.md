@@ -76,6 +76,14 @@ The application is built using a layered architecture:
 
 ## 📸 Screenshots
 
+### Dashboard
+
+### Dashboard overview
+![Camp overview](screenshots/fremvisning01.png)
+
+### Landing Page
+![Student allocation](screenshots/fremvisning02.png)
+
 
 
 ---
