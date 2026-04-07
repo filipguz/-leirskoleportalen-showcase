@@ -1,8 +1,8 @@
 # Leirskoleportalen – SaaS Platform
 
-Leirskoleportalen is a fullstack SaaS application built to digitalize the planning and execution of school camps.
+Leirskoleportalen is a fullstack SaaS application built from scratch to digitalize planning and execution of school camps.
 
-The system replaces manual workflows (Excel, paper) with a structured digital solution used in a real-world setting.
+The system replaces manual workflows (Excel and paper) and is designed for real-world use.
 
 ---
 
